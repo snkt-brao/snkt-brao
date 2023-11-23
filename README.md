@@ -1,13 +1,13 @@
 <h1 align="center">Hi there! 👋 I'm Sanket Bhalerao</h1>
 <h3 align="center">Passionate Software Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sbrao666&label=Profile%20views&color=0e75b6&style=flat" alt="sbrao666" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=snkt-brao&label=Profile%20views&color=0e75b6&style=flat" alt="snkt-brao" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sbrao666" alt="sbrao666" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snkt-brao" alt="snkt-brao" /></a> </p>
 
 - 💬 Ask me about **DSA, NodeJS, Java, JavaScript, Express, React-Native**
 
-- 📫 How to reach me: **sbrao666@gmail.com**
+- 📫 How to reach me: **snkt-brao@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,13 +32,13 @@
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sbrao666&show_icons=true&locale=en&layout=compact" alt="sbrao666" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snkt-brao&show_icons=true&locale=en&layout=compact" alt="snkt-brao" />
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sbrao666&show_icons=true&locale=en" alt="sbrao666" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=snkt-brao&show_icons=true&locale=en" alt="snkt-brao" />
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sbrao666&" alt="sbrao666" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snkt-brao&" alt="snkt-brao" />
 </p>
