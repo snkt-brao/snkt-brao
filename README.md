@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **DSA, NodeJS, Java, JavaScript, Express, React-Native**
 
-- 📫 How to reach me: **snkt-brao@gmail.com**
+- 📫 How to reach me: **sbrao666@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
